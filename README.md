@@ -5,3 +5,4 @@
 [YouTube playlist associated with this repo](https://www.youtube.com/playlist?list=PLN3n1USn4xlkdRlq3VZ1sT6SGW0-yajjL)
 
 ![database schema](database_schema.png)
+[Watch the video to learn how it was made.](https://youtu.be/ZL3hMP9BdmQ)
