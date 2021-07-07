@@ -6,3 +6,4 @@
 
 ![database schema](database_schema.png)
 [Watch the video to learn how it was made.](https://youtu.be/ZL3hMP9BdmQ)
+[Watch the video to learn how it was made.](https://youtu.be/62ueuQkPX5Q)
